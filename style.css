@@ -1,12 +1,12 @@
 body {
     font-family: sans-serif;
-    background-color: aquamarine;
+    background-color: (255, 255, 255);
     margin: 0px;
     padding: 0px;
 }
 
 header {
-    background-color: aquamarine;
+    background-color:(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
